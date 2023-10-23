@@ -18,4 +18,6 @@ let coordinates = [
 
 // basic usage
 let area = await calculateTerrainArea(coordinates);
+
+console.log(`Terrain area is ${area}m² or ${area*10.7639}ft²`);
 ```
