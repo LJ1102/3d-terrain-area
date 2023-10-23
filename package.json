@@ -1,0 +1,28 @@
+{
+  "name": "3d-terrain-area",
+  "version": "0.1.0",
+  "description": "measure 3d terrain area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LJ1102/3d-terrain-area.git"
+  },
+  "keywords": [
+    "gis",
+    "dem",
+    "area",
+    "3d",
+    "terrain",
+    "cesium",
+    "maps"
+  ],
+  "author": "Jan <LJ>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LJ1102/3d-terrain-area/issues"
+  },
+  "homepage": "https://github.com/LJ1102/3d-terrain-area#readme"
+}
